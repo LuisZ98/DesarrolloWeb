@@ -1,0 +1,13 @@
+.capa1{
+  color:blue;
+  background-color: yellow;
+  font-family: serif;
+}
+.capa2{
+  color:red;
+  border: 3px green dotted;
+}
+
+#last{
+  color:green;
+}

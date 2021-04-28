@@ -1,0 +1,26 @@
+/* Hoja de estilos para fondos */
+
+body{
+/*background-color: lightgrey;*/
+  background: url(../ImagenesEjercicios/fondo-madera.jpg);
+  background-repeat: no-repeat;
+}
+
+div{
+  background-color: #ccffcc;
+  border-color:black;
+  border-width: 2px;
+  border-style: solid;
+}
+
+span{
+  background-color: rgb(13,123,4);
+}
+
+p{
+  color:blue;
+}
+
+div p{
+  color:black;
+}
