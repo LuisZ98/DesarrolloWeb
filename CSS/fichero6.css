@@ -1,0 +1,13 @@
+.p1{
+  border: 5px solid green;
+  width: 50%;
+  text-align: top;
+  margin-top: 30px;
+  padding-top: 10px;
+}
+
+.p2{
+  border: 2px dotted red;
+  width: 75%;
+  padding-bottom: 20px;
+}
